@@ -1,0 +1,7 @@
+chromadb
+youtube-transcript-api
+sentence-transformers
+requests
+rich
+langchain-experimental
+langchain-core
